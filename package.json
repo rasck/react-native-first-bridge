@@ -1,0 +1,21 @@
+{
+  "name": "react-native-first-bridge",
+  "version": "1.0.0",
+  "description": "A simple react-native bridging attempt following facebooks guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Rasck",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "0.57.8"
+  },
+  "dependencies": {
+    "react": "16.6.3",
+    "react-native": "0.57.8"
+  }
+}
